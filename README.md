@@ -107,5 +107,5 @@ function Bio() {
   <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-type.png?raw=true" alt="Type of contibutions" width="30.7%"  margin="5">
 </div>
 <a align="center"> <img align="center" src="https://github.com/jaymiskin/jaymiskin/blob/output/github-contribution-grid-snake.svg"></a>
-<img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic""/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=jaymiskin&color=blueviolet&style=plastic""/> </a> </p>
 </p>
