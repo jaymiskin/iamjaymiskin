@@ -1,4 +1,4 @@
-<a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
+<a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Jay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
  
  
 <h1 align="center">About Me😎</h1>
