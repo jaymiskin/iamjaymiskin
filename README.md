@@ -106,6 +106,6 @@ function Bio() {
   <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-time.png?raw=true" alt="Avrg contribution time" width="30%"  margin="5">
   <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-type.png?raw=true" alt="Type of contibutions" width="30.7%"  margin="5">
 </div>
-<a align="center"> <img align="center" src="https://github.com/Akshay-Vs/Akshay-Vs/blob/output/github-contribution-grid-snake.svg"></a>
+<a align="center"> <img align="center" src="https://github.com/iamjaymiskin/iamjaymiskin/blob/output/github-contribution-grid-snake.svg"></a>
 <img src="https://komarev.com/ghpvc/?username=jaymiskin&color=blueviolet&style=plastic""/> </a> </p>
 </p>
